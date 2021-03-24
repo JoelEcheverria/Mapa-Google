@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapaGoogle</string>
+    <string name="title_activity_maps">Mapa de Google</string>
+    <string name="vBogota">Vista a Bogotá</string>
+    <string name="vEgipto">Vista 3D Pirámides de Egipto</string>
+    <string name="vParis">Marcador a París</string>
+    <string name="btnPos">Pos</string>
+    <string name="btnZoom">Zoom</string>
+    <string name="rRetro">Retro</string>
+    <string name="rNight">Night</string>
+</resources>
